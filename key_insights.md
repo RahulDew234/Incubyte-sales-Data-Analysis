@@ -12,10 +12,9 @@
 
 ---
 ## **Sales by Region**
-- **South**: ₹3.18 Cr (leads in total sales).  
-- **East**: ₹2.65 Cr (closely follows South).  
-- **North**: ₹2.17 Cr.  
-- **West**: ₹2.16 Cr.  
+- **South** leads with total sales of ₹3.18 Cr.  
+- **East** Follows closely with ₹2.65 Cr.
+- **North** and **West** have similar performance, totaling ₹2.17 Cr and ₹2.16 Cr, respectively.  
 
 ---
 
@@ -27,20 +26,13 @@
 ---
 
 ## **Sales by Age Group**
-- **Seniors**: ₹4.27 Cr (highest contribution).  
-- **Middle Age**: ₹2.72 Cr.  
-- **Adults**: ₹1.79 Cr.  
-- **Young Adults**: ₹1.42 Cr.  
-
+- **Seniors** generated the highest sales at ₹4.27 Cr, followed by **Middle Age** at ₹2.72 Cr.
+- **Adults** and **Young Adults** contributed ₹1.79 Cr and ₹1.42 Cr, respectively.
 ---
 
 ## **Top Products by Age Group**
-- **Laptop**:  
-  - Seniors: ₹2.61 Cr.  
-  - Middle Age: ₹1.65 Cr.  
-  - Adults: ₹1.10 Cr.  
-  - Young Adults: ₹0.87 Cr.  
-- **Sofa**: Consistently a top seller, especially among Seniors and Middle Age groups.
+- **Laptop** is the top-selling product across all age groups, with strong sales in **Seniors** (₹2.61 Cr), **Middle Age** (₹1.65 Cr), **Adults** (₹1.10 Cr), and **Young Adults** (₹0.87 Cr). 
+- **Sofa** is consistently a top seller in all groups, especially in **Seniors** and **Middle Age**.
 
 ---
 ## **Effect of Promotions**
@@ -58,17 +50,17 @@
 
 ## **Feedback Impact on Sales**
 - **Feedback Score of 5**:  
-  - Associated with the highest sales, averaging **₹20.26 K per sale** across **1.00 Lakh transactions**.  
+Associated with the highest sales, averaging **₹20.26 K per sale** across **1.00 Lakh transactions**.  
 - **Feedback Scores 1, 2, 3, and 4**:  
-  - Maintained similar sales performance, with average sales ranging between **₹20.35 K** and **₹20.51 K**.  
+Maintained similar sales performance, with average sales ranging between **₹20.35 K** and **₹20.51 K**.  
 
 ---
 ## **Conclusion**
 This analysis highlights that:
-1. **Seniors** and the **South region** drive the majority of sales.
-2. **Laptops** are the top-selling product across all age groups.
-3. Payment methods are evenly distributed, and promotions do not have a significant impact on the sales ratio.
-4. Feedback scores of **5** correlate with the highest average transaction value, while other scores maintain consistent performance.
+ **Seniors** and the **South region** drive the majority of sales.
+ **Laptops** are the top-selling product across all age groups.
+   Payment methods are evenly distributed, and promotions do not have a significant impact on the sales ratio.
+   Feedback scores of **5** correlate with the highest average transaction value, while other scores maintain consistent performance.
 
 
 
