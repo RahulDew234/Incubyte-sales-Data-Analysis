@@ -52,8 +52,8 @@ The goal of this analysis was to explore the dataset and extract key insights, f
 
 ## **Author**
 Rahul  Dewangan
-https://www.linkedin.com/in/rahul-dewangan-545235112/
-rahultelus12@gmail.com
+[https://www.linkedin.com/in/rahul-dewangan-545235112/]
+[rahultelus12@gmail.com]
 ---
 
 ## **Feedback**
